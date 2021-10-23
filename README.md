@@ -1,4 +1,4 @@
-# Getting Started with React Animation by levbite
+# Getting Started with React Animation by levbitz
 
 cool react animantions with AOS lib.
 
